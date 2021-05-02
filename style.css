@@ -4,7 +4,8 @@ body{
 }
 img{
   width: 200px;
-  border-radius: 50%;
+  border-radius: 20px;
+  height: 200px
 }
 h1{
   text-shadow: 2px 2px #F8BBD0;
